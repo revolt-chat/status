@@ -28,19 +28,19 @@
     "url": "https://autumn.revolt.chat",
     "icon": "https://favicons.githubusercontent.com/autumn.revolt.chat",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 416,
-    "timeWeek": 230,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 279,
+    "timeDay": 298,
+    "timeWeek": 212,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2021-11-18": 0
+      "2021-11-18": 19
     }
   },
   {
