@@ -9,6 +9,12 @@ sites:
     url: https://autumn.revolt.chat
   - name: Voice
     url: https://vortex.revolt.chat
+  - name: Static Resources
+    url: https://static.revolt.chat
+  - name: Mail
+    check: "tcp-ping"
+    url: $MAIL_SERVER
+    port: 25
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
