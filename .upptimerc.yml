@@ -11,6 +11,9 @@ sites:
     url: https://vortex.revolt.chat
   - name: Static Resources
     url: https://static.revolt.chat
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Mail
     check: "tcp-ping"
     url: $MAIL_SERVER
