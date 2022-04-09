@@ -6,7 +6,7 @@ sites:
   - name: API
     url: https://api.revolt.chat
   - name: CDN
-    url: https://autumn.revolt.chat
+    url: $AUTUMN_METRICS
   - name: Voice
     url: https://vortex.revolt.chat
   - name: Static Resources
