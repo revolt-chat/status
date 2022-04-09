@@ -9,6 +9,8 @@ sites:
     url: $AUTUMN_METRICS
   - name: Voice
     url: https://vortex.revolt.chat
+  - name: Client
+    url: https://app.revolt.chat
   - name: Static Resources
     url: https://static.revolt.chat
     expectedStatusCodes:
