@@ -12,7 +12,7 @@
     "uptimeYear": "99.88%",
     "time": 426,
     "timeDay": 365,
-    "timeWeek": 424,
+    "timeWeek": 443,
     "timeMonth": 425,
     "timeYear": 426,
     "dailyMinutesDown": {
@@ -35,12 +35,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
     "time": 726,
     "timeDay": 87,
-    "timeWeek": 7377,
+    "timeWeek": 255,
     "timeMonth": 3008,
     "timeYear": 726,
     "dailyMinutesDown": {
@@ -63,7 +63,7 @@
     "uptimeYear": "100.00%",
     "time": 479,
     "timeDay": 320,
-    "timeWeek": 456,
+    "timeWeek": 435,
     "timeMonth": 484,
     "timeYear": 479,
     "dailyMinutesDown": {}
@@ -81,7 +81,7 @@
     "uptimeYear": "99.98%",
     "time": 492,
     "timeDay": 352,
-    "timeWeek": 496,
+    "timeWeek": 514,
     "timeMonth": 490,
     "timeYear": 492,
     "dailyMinutesDown": {
@@ -101,7 +101,7 @@
     "uptimeYear": "99.99%",
     "time": 333,
     "timeDay": 192,
-    "timeWeek": 291,
+    "timeWeek": 305,
     "timeMonth": 283,
     "timeYear": 333,
     "dailyMinutesDown": {
@@ -113,17 +113,19 @@
     "url": "$MAIL_SERVER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
     "timeDay": 131,
-    "timeWeek": 148,
+    "timeWeek": 149,
     "timeMonth": 151,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-18": 0
+    }
   }
 ]
