@@ -6,7 +6,7 @@ sites:
   - name: API
     url: https://api.revolt.chat
   - name: CDN
-    url: https://autumn.revolt.chat
+    url: https://autumn.revolt.chat?t=1
   - name: Voice
     url: https://vortex.revolt.chat
   - name: Client
