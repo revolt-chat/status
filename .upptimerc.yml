@@ -9,6 +9,8 @@ sites:
     url: https://autumn.revolt.chat?t=1
   - name: Voice
     url: https://vortex.revolt.chat
+  - name: Proxy Service
+    url: https://jan.revolt.chat
   - name: Client
     url: https://app.revolt.chat
   - name: Static Resources
