@@ -1,7 +1,7 @@
 url: https://vortex.revolt.chat
-status: up
-code: 200
-responseTime: 950
-lastUpdated: 2024-08-15T23:08:47.485Z
+status: down
+code: 502
+responseTime: 863
+lastUpdated: 2024-08-16T14:27:36.722Z
 startTime: 2021-11-10T17:33:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
