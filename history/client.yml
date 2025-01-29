@@ -1,7 +1,7 @@
 url: https://app.revolt.chat
-status: up
-code: 200
-responseTime: 726
-lastUpdated: 2025-01-28T23:09:44.102Z
+status: down
+code: 502
+responseTime: 217
+lastUpdated: 2025-01-29T13:59:50.001Z
 startTime: 2022-04-09T11:11:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
