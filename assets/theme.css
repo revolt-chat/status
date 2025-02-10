@@ -1,0 +1,65 @@
+:root {
+	color-scheme: light dark;
+
+	--black: #120a24;
+	--grey: #363e53;
+	--white: #ffffff;
+	--red: #e82934;
+	--green: #1dc65d;
+	--yellow: #f9ba19;
+
+	--body-background-color: light-dark(var(--white), var(--black));
+	--body-text-color: light-dark(var(--black), var(--white));
+
+	--card-border-color: light-dark(transparent, var(--grey));
+	--card-background-color: light-dark(oklch(from var(--grey) l c h / calc(alpha - 0.9)), oklch(from var(--grey) l c h / calc(alpha - 0.3)));
+
+	--nav-background-color: transparent;
+	--nav-border-bottom-color: transparent;
+	--nav-current-border-bottom-color: transparent;
+
+	--down-border-left-color: var(--red);
+	--down-background-color: var(--red);
+
+	--degraded-border-left-color: var(--yellow);
+
+	--up-border-left-color: var(--green);
+
+	--tag-up-background-color: var(--green);
+	--tag-color: var(--black);
+
+	--tag-down-background-color: var(--red);
+	--tag-degraded-background-color: var(--black);
+
+	--change-background-color: var(--yellow);
+
+	--error-button-border-color: transparent;
+	--error-button-background-color: var(--red);
+	--error-button-color: var(--black);
+
+	--submit-button-border-color: transparent;
+	--submit-button-background-color: var(--green);
+	--submit-button-color: var(--black);
+
+	--graph-opacity: 1;
+	--graph-filter: none;
+}
+
+body {
+	font-family: sans-serif;
+	transition: 0.25s;
+}
+
+nav a {
+	font-weight: bold;
+}
+
+article {
+	border-width: 0.2rem !important;
+	border-left-width: 0.5rem !important;
+	border-radius: 1rem !important;
+}
+
+.down-active {
+	color: var(--white) !important;
+}
