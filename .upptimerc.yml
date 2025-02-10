@@ -1,18 +1,17 @@
-# Change these first
-owner: revolt-chat # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: revolt-chat
+repo: status
 
 sites:
-  - name: API
-    url: https://api.revolt.chat
-  - name: CDN
-    url: https://autumn.revolt.chat/healthcheck
-  - name: Voice
-    url: https://vortex.revolt.chat
-  - name: Proxy Service
-    url: https://jan.revolt.chat
-  - name: Client
+  - name: Web Frontend (Revite)
     url: https://app.revolt.chat
+  - name: API (Delta)
+    url: https://api.revolt.chat
+  - name: CDN (Autumn)
+    url: https://autumn.revolt.chat
+  - name: Proxy Service (January)
+    url: https://jan.revolt.chat
+  - name: Voice (Vortex)
+    url: https://vortex.revolt.chat
   - name: Static Resources
     url: https://static.revolt.chat
     expectedStatusCodes:
@@ -24,19 +23,15 @@ sites:
     port: 25
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.revolt.chat
-  # baseUrl: /your-repo-name
-  logoUrl: https://app.revolt.chat/assets/logo_round.png
-  name: Revolt
+  logoUrl: https://revolt.chat/favicon.svg
+  faviconSvg: https://revolt.chat/favicon.svg
+  themeUrl: https://status.revolt.chat/theme.css
+  name: Revolt Status
   introTitle: "Revolt Service Status"
-  introMessage: "Revolt is a user-first chat platform built with modern web technologies."
+  introMessage: "Revolt is the chat app that's truly built with you in mind. This page documents current and historical service status, as well as upcoming forecasted downtime."
   navbar:
-    - title: Status
-      href: /
     - title: Website
       href: https://revolt.chat
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Support
+      href: https://support.revolt.chat
