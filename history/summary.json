@@ -58,18 +58,20 @@
     "url": "https://jan.revolt.chat",
     "icon": "https://icons.duckduckgo.com/ip3/jan.revolt.chat.ico",
     "slug": "proxy-service-january",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 440,
-    "timeWeek": 590,
-    "timeMonth": 625,
-    "timeYear": 625,
-    "dailyMinutesDown": {}
+    "time": 621,
+    "timeDay": 489,
+    "timeWeek": 584,
+    "timeMonth": 621,
+    "timeYear": 621,
+    "dailyMinutesDown": {
+      "2025-03-02": 0
+    }
   },
   {
     "name": "Voice (Vortex)",
