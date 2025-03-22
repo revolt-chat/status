@@ -40,9 +40,9 @@
     "url": "https://autumn.revolt.chat",
     "icon": "https://icons.duckduckgo.com/ip3/autumn.revolt.chat.ico",
     "slug": "cdn-autumn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -52,6 +52,7 @@
     "timeMonth": 279,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2025-03-22": 0,
       "2025-03-11": 23
     }
   },
@@ -61,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jan.revolt.chat.ico",
     "slug": "proxy-service-january",
     "status": "up",
-    "uptime": "87.96%",
+    "uptime": "87.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.19%",
-    "uptimeYear": "87.96%",
+    "uptimeYear": "87.98%",
     "time": 610,
     "timeDay": 461,
     "timeWeek": 531,
