@@ -6,8 +6,8 @@ sites:
     url: https://app.revolt.chat
   - name: API (Delta)
     url: https://api.revolt.chat
-  - name: CDN (Autumn)
-    url: https://autumn.revolt.chat
+  - name: User Content (Autumn)
+    url: https://cdn.revoltusercontent.com
   - name: Proxy Service (January)
     url: https://jan.revolt.chat
   - name: Voice (Vortex)
