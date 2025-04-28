@@ -40,19 +40,19 @@
     "url": "https://cdn.revoltusercontent.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.revoltusercontent.com.ico",
     "slug": "user-content-autumn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 272,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 407,
+    "timeDay": 416,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 10
     }
   },
   {
