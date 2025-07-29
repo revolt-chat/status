@@ -17,6 +17,10 @@ sites:
     expectedStatusCodes:
       - 200
       - 404
+  - name: Discover
+    url: https://rvlt.gg/discover
+  - name: Community Wiki
+    url: https://wiki.rvlt.gg
   - name: Mail
     check: "tcp-ping"
     url: $MAIL_SERVER
